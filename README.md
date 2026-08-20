@@ -1,6 +1,4 @@
-# README.md — GitHub Profile
 
-```markdown
 # Hi, I'm Jorge Hewstone 👋
 
 **Senior Data Scientist · Civil Engineer in Mathematics · AI & MLOps**
@@ -125,4 +123,4 @@ Outside of technology and mathematics, I enjoy travelling, exploring Chile and b
 - 🌐 [jorgehewstonecorrea.com](https://jorgehewstonecorrea.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jorge-hewstone-correa-675120195/)
 - 📧 [jorgehewstonec@gmail.com](mailto:jorgehewstonec@gmail.com)
-```
+
